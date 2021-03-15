@@ -1,8 +1,7 @@
 # LESS : CSS SIMPLES E PRODUTIVO
 
 <h1>
-   <img src="https://scontent.fsjk2-1.fna.fbcdn.net/v/t1.0-9/89728085_3079338408764407_1043369108067844096_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=aSZE-Z71tQ8AX8Jbqoj&_nc_ht=scontent.fsjk2-1.fna&oh=1e85a0b0b10032ae41b4f03b0847468a&oe=606F88E9
-" border="0">
+   <img src="https://scontent.fsjk2-1.fna.fbcdn.net/v/t1.0-9/89728085_3079338408764407_1043369108067844096_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=aSZE-Z71tQ8AX8Jbqoj&_nc_ht=scontent.fsjk2-1.fna&oh=1e85a0b0b10032ae41b4f03b0847468a&oe=606F88E9" border="0">
 </h1>
 
 
